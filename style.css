@@ -1,0 +1,25 @@
+h3{
+    color: aqua;
+}
+h3:hover{
+    color: bisque;
+    background-color: rebeccapurple;
+}
+input:focus{
+    color: brown;
+    padding-left:20px ;
+    outline: 0;
+    border: 2px solid gold;
+}
+a:visited{
+    color: greenyellow;
+}
+li:last-child{
+    color: coral;
+}
+li:first-child{
+    background-color: aqua;
+}
+li:nth-child(2n){
+    color: cadetblue;
+}

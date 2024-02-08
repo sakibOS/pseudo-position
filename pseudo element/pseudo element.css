@@ -1,0 +1,21 @@
+h3::after{
+    content: '.pdf';
+    color: yellow;
+    font-size: 20px;
+    background-color: aqua;
+}
+h3::before{
+    content:' start:';
+}
+p::first-letter{
+    font-size: 2em;
+}
+p::first-line{
+    background-color: indianred;
+}
+::selection{
+    color: yellowgreen;
+}
+input::placeholder{
+    color: blue;
+}

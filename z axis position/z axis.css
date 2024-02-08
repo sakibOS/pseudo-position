@@ -1,0 +1,13 @@
+.box{
+    position: relative;
+}
+.ring{
+    top: -100px;
+    z-index: 5;
+}
+.boy{
+    z-index: 10;
+}
+.water{
+    top: -250px;
+}
